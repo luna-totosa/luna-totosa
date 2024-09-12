@@ -9,3 +9,4 @@ Estou me desenvolvendo na linguagem JavaScript
 Você pode entrar em contato comigo 📫
 
 ~~luna~~
+<3
